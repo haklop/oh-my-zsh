@@ -161,3 +161,4 @@ compdef __go_tool_complete go
 
 # aliases
 alias gfa='go fmt . ./...'
+alias gpath='export GOPATH=`pwd`'
